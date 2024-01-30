@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GCLab6 (shopping list)/1.0.0": {
+        "runtime": {
+          "GCLab6 (shopping list).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GCLab6 (shopping list)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
