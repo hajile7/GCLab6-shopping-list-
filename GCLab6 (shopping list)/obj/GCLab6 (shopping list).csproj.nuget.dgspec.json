@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elire\\source\\repos\\GCLab6 (shopping list)\\GCLab6 (shopping list)\\GCLab6 (shopping list).csproj": {}
+    "C:\\Users\\elire\\source\\repos\\GC Labs\\GCLab6 (shopping list)\\GCLab6 (shopping list)\\GCLab6 (shopping list).csproj": {}
   },
   "projects": {
-    "C:\\Users\\elire\\source\\repos\\GCLab6 (shopping list)\\GCLab6 (shopping list)\\GCLab6 (shopping list).csproj": {
+    "C:\\Users\\elire\\source\\repos\\GC Labs\\GCLab6 (shopping list)\\GCLab6 (shopping list)\\GCLab6 (shopping list).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elire\\source\\repos\\GCLab6 (shopping list)\\GCLab6 (shopping list)\\GCLab6 (shopping list).csproj",
+        "projectUniqueName": "C:\\Users\\elire\\source\\repos\\GC Labs\\GCLab6 (shopping list)\\GCLab6 (shopping list)\\GCLab6 (shopping list).csproj",
         "projectName": "GCLab6 (shopping list)",
-        "projectPath": "C:\\Users\\elire\\source\\repos\\GCLab6 (shopping list)\\GCLab6 (shopping list)\\GCLab6 (shopping list).csproj",
+        "projectPath": "C:\\Users\\elire\\source\\repos\\GC Labs\\GCLab6 (shopping list)\\GCLab6 (shopping list)\\GCLab6 (shopping list).csproj",
         "packagesPath": "C:\\Users\\elire\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elire\\source\\repos\\GCLab6 (shopping list)\\GCLab6 (shopping list)\\obj\\",
+        "outputPath": "C:\\Users\\elire\\source\\repos\\GC Labs\\GCLab6 (shopping list)\\GCLab6 (shopping list)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elire\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GCLab6 (shopping list)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e9aebf832d320bdd6ad07019f5242a6ab235319")]
 [assembly: System.Reflection.AssemblyProductAttribute("GCLab6 (shopping list)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GCLab6 (shopping list)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
